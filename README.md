@@ -30,3 +30,12 @@ Este proyecto tiene como objetivo automatizar el cálculo de KPIs a partir de da
 ## Tecnologías utilizadas
 - Python
 - Tkinter
+
+## Ejemplo de archivo de entrada
+El archivo de texto debe tener el siguiente formato:
+
+```text
+Equipo A, 120
+Equipo B, 95
+Equipo C, 150
+```

@@ -1,0 +1,4 @@
+Equipo A, 120
+Equipo B, 150
+Equipo C, 80
+Equipo D, 70
